@@ -1,0 +1,39 @@
+# Discover Islam
+
+> Discover Islam through clear, honest guides: the Qur'an, Allah, Prophet Muhammad, prayer, Jesus in Islam, history — answers to common questions. Written from a Muslim voice for curious non-Muslims worldwide.
+
+Discover Islam (https://bofrahi12.github.io/islamic-civilization-explorer/) is a free educational website that explains Islam to curious non-Muslims — especially readers in the USA and Europe. All content is in English and written from a warm Muslim-insider voice ("we believe", "our Qur'an", "our Prophet"). The site follows a strict source discipline: the Qur'an, graded hadith (with collection and grade named), history, and interpretation are always distinguished, and real scholarly disagreements are named rather than hidden.
+
+## Start here
+
+- [Start Here](https://bofrahi12.github.io/islamic-civilization-explorer/start-here): the guided path for a first-time visitor
+- [What Is Islam?](https://bofrahi12.github.io/islamic-civilization-explorer/what-is-islam): a simple introduction for beginners
+- [Explore](https://bofrahi12.github.io/islamic-civilization-explorer/explore): the discovery hub
+- [All Articles](https://bofrahi12.github.io/islamic-civilization-explorer/articles): the full guide index (97 guides)
+- [Glossary](https://bofrahi12.github.io/islamic-civilization-explorer/glossary): key Islamic terms explained
+
+## Core topics
+
+- Beliefs: [Who Is Allah?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/who-is-allah) · [What Do Muslims Believe?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-do-muslims-believe) · [What Is the Purpose of Life?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-is-the-purpose-of-life) · [What Happens After Death?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-happens-after-death) · [What Is Jannah?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-is-jannah)
+- The Qur'an: [What Is the Qur'an?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-is-the-quran) · [How Was the Qur'an Revealed?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/how-was-the-quran-revealed) · [How Was the Qur'an Preserved?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/how-was-the-quran-preserved) · [Why We Believe the Qur'an Is from God](https://bofrahi12.github.io/islamic-civilization-explorer/articles/why-we-believe-the-quran-is-from-god)
+- The Prophet: [Who Is Muhammad?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/who-is-muhammad) · [The Character of Muhammad](https://bofrahi12.github.io/islamic-civilization-explorer/articles/the-character-of-muhammad) · [Stories of the Prophets](https://bofrahi12.github.io/islamic-civilization-explorer/articles/stories-of-the-prophets)
+- Practice: [The Five Pillars](https://bofrahi12.github.io/islamic-civilization-explorer/articles/the-five-pillars) · [Why Do Muslims Pray?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/why-do-muslims-pray) · [Why Do Muslims Fast?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/why-do-muslims-fast) · [What Is Hajj?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-is-hajj)
+- Jesus in Islam: [Jesus in Islam](https://bofrahi12.github.io/islamic-civilization-explorer/articles/jesus-in-islam) · [Did Jesus Die on the Cross?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/did-jesus-die-on-the-cross) · [Maryam in Islam](https://bofrahi12.github.io/islamic-civilization-explorer/articles/maryam-in-islam) · [A Christian's Guide to Exploring Islam](https://bofrahi12.github.io/islamic-civilization-explorer/articles/a-christians-guide-to-exploring-islam)
+- History & civilization: [Islam Through History](https://bofrahi12.github.io/islamic-civilization-explorer/articles/islam-through-history) · [The Islamic Golden Age](https://bofrahi12.github.io/islamic-civilization-explorer/articles/islamic-golden-age) · [Seerah & Sunnah](https://bofrahi12.github.io/islamic-civilization-explorer/seerah-and-sunnah)
+- Honest answers to hard questions: [Common Questions About Islam](https://bofrahi12.github.io/islamic-civilization-explorer/articles/common-questions-about-islam) · [What Does Islam Say About Terrorism?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-does-islam-say-about-terrorism) · [What Is Jihad?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/what-is-jihad) · [Islam and Slavery](https://bofrahi12.github.io/islamic-civilization-explorer/articles/islam-and-slavery) · [Did Islam Spread by the Sword?](https://bofrahi12.github.io/islamic-civilization-explorer/articles/did-islam-spread-by-the-sword) · [Women in Islam](https://bofrahi12.github.io/islamic-civilization-explorer/articles/women-in-islam)
+
+## For someone considering Islam
+
+- [Thinking of Becoming Muslim](https://bofrahi12.github.io/islamic-civilization-explorer/articles/thinking-of-becoming-muslim): honest answers to real fears, no pressure
+- [The Shahada](https://bofrahi12.github.io/islamic-civilization-explorer/shahada): the testimony of faith, in English and Arabic
+- [Your First 7 Days](https://bofrahi12.github.io/islamic-civilization-explorer/articles/your-first-7-days-learning-about-islam) · [Your First 30 Days as a New Muslim](https://bofrahi12.github.io/islamic-civilization-explorer/articles/your-first-30-days-as-a-new-muslim) · [New Muslim Resources](https://bofrahi12.github.io/islamic-civilization-explorer/new-muslim-resources)
+- [Ask a Muslim](https://bofrahi12.github.io/islamic-civilization-explorer/ask-a-muslim): ask a question, get a personal answer
+
+## Practical tools
+
+- [Qur'an hub](https://bofrahi12.github.io/islamic-civilization-explorer/quran) · [Prayer Times](https://bofrahi12.github.io/islamic-civilization-explorer/prayer-times) · [Qibla Finder](https://bofrahi12.github.io/islamic-civilization-explorer/qibla-finder)
+
+## Machine-readable
+
+- Full URL list: [sitemap.xml](https://bofrahi12.github.io/islamic-civilization-explorer/sitemap.xml)
+- Every guide page ships fully server-rendered HTML with per-page title, meta description, canonical URL, Open Graph tags, and Article/BreadcrumbList/FAQ JSON-LD structured data.
